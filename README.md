@@ -28,7 +28,7 @@ $host = 'localhost'; // Your MySQL host
 $username = 'your_username'; // Your MySQL username
 $password = 'your_password'; // Your MySQL password
 $database = 'your_database_name'; // Your MySQL database name
-
+```
 
 Of course! Here's the README in pure Markdown format:
 
