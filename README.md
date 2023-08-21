@@ -59,7 +59,7 @@ User account management (login and registration).
 This project is licensed under the MIT License.
 
 ## Contact
-If you have any questions or issues, please contact your.email@example.com.
+If you have any questions or issues, please contact mo.shaaban2000@gmail.com 
 
 Happy shopping with Laptic!
 
