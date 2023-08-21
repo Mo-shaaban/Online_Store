@@ -18,7 +18,7 @@ Before you can run the project, ensure you have the following prerequisites inst
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/laptic.git
+git clone https://github.com/Mo-shaaban/Online_Store.git
 
 sql
 Copy code
@@ -26,9 +26,7 @@ Copy code
 2. Create a MySQL database for the project and import the provided SQL schema:
 
 mysql -u your_username -p your_database_name < database.sql
-
-php
-Copy code
+Mysql code can be found in LapTic/Database.sql
 
 3. Configure the database connection by editing `config.php`:
 
@@ -40,6 +38,7 @@ $database = 'your_database_name'; // Your MySQL database name
 ```
 
 4.Place the project files in your web server's document root directory.
+
 
 ##Usage
 
