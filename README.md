@@ -1,39 +1,4 @@
-# Laptic Online Laptop Store
 
-## Introduction
-
-Laptic is an online laptop store project developed using PHP, JavaScript, HTML, CSS, and MySQL. This project allows users to browse, search for, and purchase laptops conveniently through a web interface.
-
-## Prerequisites
-
-Before you can run the project, ensure you have the following prerequisites installed:
-
-- PHP (>= 7.0)
-- MySQL (>= 5.7)
-- A web server (e.g., Apache, Nginx)
-- Web browser (Chrome, Firefox, etc.)
-
-## Installation
-
-1. Clone this repository to your local machine:
-    git clone https://github.com/Mo-shaaban/Online_Store.git
-
-2. Create a MySQL database for the project and import the provided SQL schema:
-    mysql -u your_username -p your_database_name < database.sql
-
-3. Configure the database connection by editing `config.php`:
-
-```php
-$host = 'localhost'; // Your MySQL host
-$username = 'your_username'; // Your MySQL username
-$password = 'your_password'; // Your MySQL password
-$database = 'your_database_name'; // Your MySQL database name
-```
-
-Of course! Here's the README in pure Markdown format:
-
-markdown
-Copy code
 # Laptic Online Laptop Store
 
 ## Introduction
