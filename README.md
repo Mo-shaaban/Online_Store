@@ -77,6 +77,7 @@ $database = 'your_database_name'; // Your MySQL database name
 4.Place the project files in your web server's document root directory.
 
 ##Usage
+
   Start your web server.
 
   Open a web browser and navigate to http://localhost/Online_Store/Laptic/home.php.
