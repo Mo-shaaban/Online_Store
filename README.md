@@ -26,7 +26,7 @@ Copy code
 2. Create a MySQL database for the project and import the provided SQL schema:
 
 mysql -u your_username -p your_database_name < database.sql
-Mysql code can be found in LapTic/Database.sql
+The Mysql code to create the database can be found in LapTic/Database.sql
 
 3. Configure the database connection by editing `config.php`:
 
