@@ -14,6 +14,29 @@ Before you can run the project, ensure you have the following prerequisites inst
 - A web server (e.g., Apache, Nginx)
 - Web browser (Chrome, Firefox, etc.)
 
+##Usage
+
+  Start your web server.
+
+  Open a web browser and navigate to http://localhost/Online_Store/Laptic/home.php.
+
+  You should now see the Laptic Online Laptop Store homepage.
+
+##Features
+Browse a wide selection of laptops.
+Search for laptops by brand, specifications, and price range.
+Add laptops to your shopping cart.
+Checkout and complete your purchase.
+User account management (login and registration).
+
+##License
+This project is licensed under the MIT License.
+
+##Contact
+If you have any questions or issues, please contact your.email@example.com.
+
+Happy shopping with Laptic!
+
 ## Installation
 
 1. Clone this repository to your local machine:
@@ -40,27 +63,5 @@ $database = 'your_database_name'; // Your MySQL database name
 4.Place the project files in your web server's document root directory.
 
 
-##Usage
-
-  Start your web server.
-
-  Open a web browser and navigate to http://localhost/Online_Store/Laptic/home.php.
-
-  You should now see the Laptic Online Laptop Store homepage.
-
-##Features
-Browse a wide selection of laptops.
-Search for laptops by brand, specifications, and price range.
-Add laptops to your shopping cart.
-Checkout and complete your purchase.
-User account management (login and registration).
-
-##License
-This project is licensed under the MIT License.
-
-##Contact
-If you have any questions or issues, please contact your.email@example.com.
-
-Happy shopping with Laptic!
 
 
